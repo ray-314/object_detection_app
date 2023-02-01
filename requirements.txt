@@ -1,0 +1,5 @@
+azure_storage==0.37.0
+googletrans==3.0.0
+msrest==0.7.1
+Pillow==9.4.0
+streamlit==1.17.0
